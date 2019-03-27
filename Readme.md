@@ -10,8 +10,7 @@ The magnetic shifter design has been tested for over a year and the steering whe
 
 Assembly instructions and the Bill of Materials may be found in the Wiki. [Steering Wheel Assembly Instructions](https://github.com/KaiserSoft/3d-printed-formula-style-steering-wheel/wiki)     
     
-The firmware can be used to create button boxes, back plates for steering wheels or entire wheels like this one. Due to this modular approach the firmware is hosted in a seperate repository.     
-[Firmware for Steering Wheel](https://github.com/KaiserSoft/simwheel-firmware-arduino-pro-micro)
+The firmware can be used to create button boxes, back plates for steering wheels or entire wheels like this one. Due to this modular approach the firmware is hosted in a seperate repository. [Firmware for Steering Wheel](https://github.com/KaiserSoft/simwheel-firmware-arduino-pro-micro)
 
 Copyright 2019 Mirko Kaiser     
 License: MIT License
