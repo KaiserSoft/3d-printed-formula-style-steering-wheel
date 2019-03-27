@@ -1,5 +1,6 @@
 # 3D Printed Formula Style Sim Racing Steering Wheel
-![Example of steering wheel](https://raw.githubusercontent.com/KaiserSoft/3d-printed-formula-style-steering-wheel/master/pictures/wheel%20front%20with%20buttons%20and%20arrows.jpg)
+![Example of steering wheel](https://raw.githubusercontent.com/KaiserSoft/3d-printed-formula-style-steering-wheel/master/pictures/wheel%20front%20with%20buttons%20and%20arrows.jpg) 
+![Back of assembled steering wheel](https://raw.githubusercontent.com/KaiserSoft/3d-printed-formula-style-steering-wheel/master/pictures/wheel%20back%20assembled.jpg)    
 
 This repository contains the 3D models and STL files required to 3D print your own formula style steering wheel.     
 The magnetic shifter design has been tested for over a year and the steering wheel for a few months. Everything has performed without any issues while being used on my OSW with small Mige motor.    
