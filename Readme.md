@@ -15,4 +15,4 @@ The firmware can be used to create button boxes, back plates for steering wheels
 Copyright 2019 Mirko Kaiser     
 License: MIT License
 
-
+![Fully Assembled and Wrapped](https://raw.githubusercontent.com/KaiserSoft/3d-printed-formula-style-steering-wheel/master/pictures/wheel-fully-wrapped.jpg) 
